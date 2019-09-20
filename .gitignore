@@ -40,3 +40,4 @@ dist
 
 src/token/__do-not-commit-me__.js
 .idea/workspace.xml
+.DS_Store
